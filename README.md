@@ -5,3 +5,4 @@ Today is 2021-07-02.
 
 Wow, I finally was able to figure out the ssh and private token stuff so that I can connect directly from within Nova.
 Testing
+Sweet. It look like it is working now. I can make updates and commit whenever I like.
